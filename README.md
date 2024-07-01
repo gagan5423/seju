@@ -1,2 +1,3 @@
 # senju
 clan name
+hashirama
