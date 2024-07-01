@@ -1,2 +1,2 @@
-# seju
+# senju
 clan name
